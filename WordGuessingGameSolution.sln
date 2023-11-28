@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGuessingGameClient", "WordGuessingGameClient\WordGuessingGameClient.csproj", "{498B2188-FEB2-4E80-A2CB-D97346BFBE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGuessingGameServer", "WordGuessingGameServer\WordGuessingGameServer.csproj", "{9F6A82BE-7677-4169-94E9-C1D2626E187F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498B2188-FEB2-4E80-A2CB-D97346BFBE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498B2188-FEB2-4E80-A2CB-D97346BFBE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498B2188-FEB2-4E80-A2CB-D97346BFBE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498B2188-FEB2-4E80-A2CB-D97346BFBE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6A82BE-7677-4169-94E9-C1D2626E187F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6A82BE-7677-4169-94E9-C1D2626E187F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6A82BE-7677-4169-94E9-C1D2626E187F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6A82BE-7677-4169-94E9-C1D2626E187F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4DF2259-E05E-44DD-AC9F-FF1A022DDD7D}
+	EndGlobalSection
+EndGlobal

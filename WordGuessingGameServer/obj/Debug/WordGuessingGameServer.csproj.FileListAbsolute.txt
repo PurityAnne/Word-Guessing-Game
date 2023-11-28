@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C sharp game\git\assignment-5-rudra-ahmad\WordGuessingGameSolution\WordGuessingGameServer\bin\Debug\WordGuessingGameServer.exe.config
+C:\Users\Admin\Desktop\C sharp game\git\assignment-5-rudra-ahmad\WordGuessingGameSolution\WordGuessingGameServer\bin\Debug\WordGuessingGameServer.exe
+C:\Users\Admin\Desktop\C sharp game\git\assignment-5-rudra-ahmad\WordGuessingGameSolution\WordGuessingGameServer\bin\Debug\WordGuessingGameServer.pdb
+C:\Users\Admin\Desktop\C sharp game\git\assignment-5-rudra-ahmad\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C sharp game\git\assignment-5-rudra-ahmad\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C sharp game\git\assignment-5-rudra-ahmad\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C sharp game\git\assignment-5-rudra-ahmad\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.exe
+C:\Users\Admin\Desktop\C sharp game\git\assignment-5-rudra-ahmad\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.pdb
+C:\Users\USER\Desktop\WordGuessingGameSolution\WordGuessingGameServer\bin\Debug\WordGuessingGameServer.exe.config
+C:\Users\USER\Desktop\WordGuessingGameSolution\WordGuessingGameServer\bin\Debug\WordGuessingGameServer.exe
+C:\Users\USER\Desktop\WordGuessingGameSolution\WordGuessingGameServer\bin\Debug\WordGuessingGameServer.pdb
+C:\Users\USER\Desktop\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.exe
+C:\Users\USER\Desktop\WordGuessingGameSolution\WordGuessingGameServer\obj\Debug\WordGuessingGameServer.pdb

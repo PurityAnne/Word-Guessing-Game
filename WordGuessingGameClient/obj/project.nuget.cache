@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HA007EUytWjjUshe7cXzFHdzuAraRekxdKCSP024qrv6nIv7pgJvIPolWXjIuOCxTdP0ZfRJiAwHJjF0zTehNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\WordGuessingGameSolution\\WordGuessingGameClient\\WordGuessingGameClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
